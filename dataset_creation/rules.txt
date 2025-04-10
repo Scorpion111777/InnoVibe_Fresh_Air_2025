@@ -1,0 +1,10 @@
+Rule 1: Higher budget → Higher success
+Rule 2: Higher damage → Lower success
+Rule 3: Same type retained & low damage → Bonus
+Rule 4: Higher priority (1 is highest) → More success
+Rule 5: Longer duration may improve outcome
+Rule 6: Area too large may reduce effectiveness
+Rule 7: High funding source index may indicate complexity → small penalty
+Rule 8: Severe type_of_damage → lower success
+Rule 9: Small area and low damage → high success potential
+Rule 10: Region-based minor variance
