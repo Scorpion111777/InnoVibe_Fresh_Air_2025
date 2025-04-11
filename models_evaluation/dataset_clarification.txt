@@ -1,0 +1,28 @@
+type
+1	Industrial
+2	Civil
+3	Park Zone
+4	Infrastructure
+5	Agricultural
+
+type_of_damage
+1	Structural Collapse
+2	Fire
+3	Contamination
+4	Mine Presence
+5	Explosions
+6	Flooding
+7	Toxic Spill
+
+recovery_priority
+1	High
+2	Medium
+3	Low
+
+funding_source
+1	Government
+2	EU Grants
+3	UN Aid
+4	Private
+5	NGOs
+6	Environmental Funds
